@@ -86,7 +86,7 @@ Database connectivity and database operations are implemented using **ADO.NET an
 
 ### Employee Management Dashboard
 
-![Employee Management System](employee-management.png)
+![Employee Management System](Downloads/employee-management.png)
 
 ## ⚙️ How to Run the Project
 
